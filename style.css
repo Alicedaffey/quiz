@@ -1,0 +1,30 @@
+#omikuji{
+    width: 240px;
+    height: 240px;
+    background-color: brown;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 240px;
+    font-size: 32px;
+    font-weight: bold;
+    user-select: none;
+}
+body,html,div,h1,h2,ul,li{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    text-align: center;
+}
+ul{
+    width: 300px;
+    margin: 20px auto;
+    list-style: none;
+}
+#btn{
+    text-align: center;
+    
+}
+#btn button{
+background-color: aquamarine;
+}
